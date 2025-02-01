@@ -90,18 +90,6 @@ Meta description fetching is simulated in fetchMetaData.js.
 
 Feel free to fork the repository and submit pull requests.
 
-Fork the repo
-
-Create a new branch
-
-Make changes & commit
-
-Open a PR!
-
-📜 License
-
-This project is MIT Licensed.
-
 🌍 Live Demo
 
 🔗 Click Here to View the Live Website
