@@ -92,7 +92,7 @@ Feel free to fork the repository and submit pull requests.
 
 🌍 Live Demo
 
-🔗 Click Here to View the Live Website
+🔗 https://mb854dstp20b6my9.vercel.app/
 
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by Shakti Singh Rathaur
 
